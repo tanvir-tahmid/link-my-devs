@@ -1,5 +1,5 @@
 {
-    "mongoURI": "mongodb+srv://tan124:VwT6rAmFdpdCNgff@cluster0.1eeru.mongodb.net/connectdevs?retryWrites=true&w=majority",
-    "jwtSecret": "mysupersecrettokennot",
-    "githubToken": "<yoursecrectaccesstoken>"
+    "mongoURI": "<mongodbatlasurl>",
+    "jwtSecret": "<secret>",
+    "githubToken": "<secrectaccesstoken>"
   }
